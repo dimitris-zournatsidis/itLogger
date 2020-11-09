@@ -10,7 +10,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c1f8832-7f5b-47fe-b3f9-8a005955f7b8" name="Default Changelist" comment="" />
+    <list default="true" id="6c1f8832-7f5b-47fe-b3f9-8a005955f7b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/logActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/logActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logs/AddLogModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/AddLogModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logs/LogItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/LogItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logs/Logs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/Logs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/logReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/logReducer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +59,9 @@
       <workItem from="1604508642089" duration="389000" />
       <workItem from="1604509042833" duration="404000" />
       <workItem from="1604509462796" duration="2484000" />
-      <workItem from="1604513470695" duration="2530000" />
+      <workItem from="1604513470695" duration="2849000" />
+      <workItem from="1604837029920" duration="3350000" />
+      <workItem from="1604841012923" duration="6291000" />
     </task>
     <servers />
   </component>
@@ -69,10 +81,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="705" y="344" key="#Notifications" timestamp="1604427896761">
+    <state x="705" y="344" key="#Notifications" timestamp="1604837837426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="705" y="344" key="#Notifications/-1280.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604427896761" />
+    <state x="705" y="344" key="#Notifications/-1280.64.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1604837837426" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604346712875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
