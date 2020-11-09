@@ -11,15 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c1f8832-7f5b-47fe-b3f9-8a005955f7b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/actions/techActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/techs/TechSelectOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/techReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/logActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/logActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/SearchBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/logs/AddLogModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/AddLogModal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/logs/LogItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/LogItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/logs/Logs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/Logs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/logReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/logReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/techs/AddTechModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/techs/AddTechModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/techs/TechItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/techs/TechItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/techs/TechListModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/techs/TechListModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +65,7 @@
       <workItem from="1604513470695" duration="2849000" />
       <workItem from="1604837029920" duration="3350000" />
       <workItem from="1604841012923" duration="6291000" />
+      <workItem from="1604912228312" duration="5998000" />
     </task>
     <servers />
   </component>
